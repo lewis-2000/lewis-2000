@@ -1,5 +1,6 @@
 <a href="https://github.com/zogmwa"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
 </div>
+
 <img align="right" alt="GIF" src="2GU.gif"/>
 
 ## 👱🏾‍♂ About me:
