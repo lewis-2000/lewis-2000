@@ -26,13 +26,12 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 📝 Email : lewisnganga1@outlook.com <br />
-<b>Company </b> 🏢 https://github.com/Flammy-Tech/Farm-Management <br/>
+🏢 <b>Company </b> https://github.com/Flammy-Tech/Farm-Management <br/>
 
 
 
 <!--
 **lewis-2000/lewis-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
