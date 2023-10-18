@@ -26,7 +26,7 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 📝 Email : lewisnganga1@outlook.com <br />
-🏢 <b>Company </b> https://github.com/Flammy-Tech/Farm-Management <br/>
+🏢 <b>Company </b> https://github.com/Flammy-Tech/ <br/>
 
 
 
