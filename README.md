@@ -1,34 +1,31 @@
-<a href="https://github.com/zogmwa"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/></a>
-</div>
-
-<img align="right" alt="GIF" src="2GU.gif"/>
-
-## 👱🏾‍♂ About me:
-
-<p>
-</br>🔸Currently in school Learning software engineering
-</br>🔸Proficient in C++, Python and C#
-</br>🔸Love eating if that is relevant
+<p align="center">
+    <a href="https://github.com/zogmwa">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+    </a>
 </p>
 
-<h2>👀 Specialised in:</h2>
-<p> 🔸Web development
-    🔸Dotnet
-<p>
-  
- </div>
- </div>
-<p>
-  
-  
-</p>
+<img align="right" alt="GIF" src="2GU.gif" />
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+## 👋 Hey There, I'm Lewis!
 
-📝 Email : lewisnganga1@outlook.com <br />
-🏢 <b>Company </b> https://github.com/Flammy-Tech/ <br/>
+- 🚀 Learning software engineering and having a blast at school.
+- 💻 Coding in C++, Python, and C#. On a mission to conquer all languages!
+- 🍔 Love eating - especially when my code runs without errors. 🍔
 
+## 👀 What I'm All About
 
+- 🔧 Passionate about web development - creating websites that WOW!
+- 🌐 Exploring the .NET world - one line of code at a time.
+- 🚀 Always up for a coding challenge and a good cup of coffee.
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-lewisnganga1%40outlook.com-9cf)](mailto:lewisnganga1@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Flammy--Tech-181717?logo=github)](https://github.com/Flammy-Tech/)
+
+## ⚡ Fun Fact
+
+- 🎸 I play the guitar in my free time. Coding and music, what a combo!
 
 <!--
 **lewis-2000/lewis-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
