@@ -9,13 +9,13 @@
 ## 👋 Hey There, I'm Lewis!
 
 - 🚀 Learning software engineering and having a blast at school.
-- 💻 Coding in C++, Python, and C#. On a mission to conquer all languages!
+- 💻 Coding in React, Typescript, Javascript and C#. On a mission to conquer all languages!
 - 🍔 Love eating - especially when my code runs without errors. 🍔
 
 ## 👀 What I'm All About
 
 - 🔧 Passionate about web development - creating websites that WOW!
-- 🌐 Exploring the .NET world - one line of code at a time.
+- 🌐 Exploring the React and .NET world - one line of code at a time.
 - 🚀 Always up for a coding challenge and a good cup of coffee.
 
 ## 📫 Connect With Me
