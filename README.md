@@ -4,29 +4,19 @@
     </a>
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    
-    <div style="flex: 0 1 50%;">
+## 👋 Hey There, I'm Lewis!
 
-        ## 👋 Hey There, I'm Lewis!
+<img align="right" alt="GIF" src="2GU.gif" />
 
-        - 🚀 Learning software engineering and having a blast at school.
-        - 💻 Coding in React, TypeScript, JavaScript, and C#. On a mission to conquer all languages!
-        - 🍔 Love eating - especially when my code runs without errors. 🍔
+- 🚀 Learning software engineering and having a blast at school.
+- 💻 Coding in React, TypeScript, JavaScript, and C#. On a mission to conquer all languages!
+- 🍔 Love eating - especially when my code runs without errors. 🍔
 
-        ## 👀 What I'm All About
+## 👀 What I'm All About
 
-        - 🔧 Passionate about web development - creating websites that WOW!
-        - 🌐 Exploring the React and .NET world - one line of code at a time.
-        - 🚀 Always up for a coding challenge and a good cup of coffee.
-
-    </div>
-
-    <div style="flex: 0 1 50%; text-align: right;">
-        <img alt="GIF" src="2GU.gif" />
-    </div>
-
-</div>
+- 🔧 Passionate about web development - creating websites that WOW!
+- 🌐 Exploring the React and .NET world - one line of code at a time.
+- 🚀 Always up for a coding challenge and a good cup of coffee.
 
 ## 📫 Connect With Me
 
@@ -36,6 +26,7 @@
 ## ⚡ Fun Fact
 
 - 🎸 I play the guitar in my free time. Coding and music, what a combo!
+
 
 <!--
 **lewis-2000/lewis-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
