@@ -21,7 +21,7 @@
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-lewisnganga1%40outlook.com-9cf)](mailto:flammylewis2000@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Flammy--Tech-181717?logo=github)](https://github.com/lewis-2000/)
+[![GitHub](https://img.shields.io/badge/GitHub-Lewis--Nganga-181717?logo=github)](https://github.com/lewis-2000/)
 
 ## ⚡ Fun Fact
 
