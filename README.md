@@ -4,12 +4,12 @@
     </a>
 </p>
 
-<img align="right" alt="GIF" src="2GU.gif" />
-
 ## 👋 Hey There, I'm Lewis!
 
+<img align="right" alt="GIF" src="2GU.gif" />
+
 - 🚀 Learning software engineering and having a blast at school.
-- 💻 Coding in React, Typescript, Javascript and C#. On a mission to conquer all languages!
+- 💻 Coding in React, TypeScript, JavaScript, and C#. On a mission to conquer all languages!
 - 🍔 Love eating - especially when my code runs without errors. 🍔
 
 ## 👀 What I'm All About
