@@ -1,0 +1,20 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" rx="22" fill="#0A0C15"/>
+  <rect y="210" width="1200" height="210" fill="#07080F"/>
+
+  <circle cx="170" cy="95" r="50" fill="#2B3557"/>
+  <circle cx="170" cy="95" r="36" fill="#3D4B7A"/>
+
+  <ellipse cx="600" cy="320" rx="180" ry="28" fill="#04050A"/>
+  <circle cx="600" cy="265" r="74" fill="#40210F"/>
+  <circle cx="600" cy="265" r="52" fill="#8A441C"/>
+  <circle cx="600" cy="265" r="34" fill="#E9A94C"/>
+
+  <path d="M600 252 L600 178" stroke="#E4BE73" stroke-width="4" stroke-linecap="round"/>
+  <path d="M600 178 L586 159" stroke="#E4BE73" stroke-width="4" stroke-linecap="round"/>
+  <path d="M600 178 L614 159" stroke="#E4BE73" stroke-width="4" stroke-linecap="round"/>
+
+  <text x="600" y="88" text-anchor="middle" fill="#F2E7C4" font-size="52" font-family="Georgia, 'Times New Roman', serif">Enter the Boss Arena</text>
+  <text x="600" y="126" text-anchor="middle" fill="#CFD6E8" font-size="23" font-family="Verdana, 'Trebuchet MS', sans-serif">OpenGL - Vulkan - Full-Stack - No Hit Run on Production Bugs</text>
+  <text x="600" y="372" text-anchor="middle" fill="#FFCC80" font-size="21" font-family="Verdana, 'Trebuchet MS', sans-serif">Every deploy is a boss fight. Every rollback is a second phase.</text>
+</svg>

@@ -1,0 +1,62 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A1020"/>
+      <stop offset="60%" stop-color="#1B1F3A"/>
+      <stop offset="100%" stop-color="#2B1F14"/>
+    </linearGradient>
+    <radialGradient id="graceGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#FFD777" stop-opacity="0.95"/>
+      <stop offset="60%" stop-color="#FFB74A" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FF8F00" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <style>
+      .title {
+        font-family: Georgia, 'Times New Roman', serif;
+        font-size: 54px;
+        fill: #F6E7B0;
+        letter-spacing: 1px;
+      }
+      .subtitle {
+        font-family: 'Trebuchet MS', Verdana, sans-serif;
+        font-size: 24px;
+        fill: #D7DCE8;
+      }
+      .caption {
+        font-family: 'Trebuchet MS', Verdana, sans-serif;
+        font-size: 22px;
+        fill: #FFD777;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="22" fill="url(#bgGrad)"/>
+
+  <g opacity="0.35">
+    <circle cx="160" cy="70" r="1.5" fill="#FFFFFF"/>
+    <circle cx="320" cy="120" r="1" fill="#FFFFFF"/>
+    <circle cx="410" cy="60" r="1.8" fill="#FFFFFF"/>
+    <circle cx="930" cy="85" r="1.5" fill="#FFFFFF"/>
+    <circle cx="1060" cy="130" r="1.1" fill="#FFFFFF"/>
+    <circle cx="1140" cy="70" r="1.4" fill="#FFFFFF"/>
+  </g>
+
+  <g transform="translate(600 220)">
+    <ellipse cx="0" cy="78" rx="180" ry="35" fill="#000000" opacity="0.45" filter="url(#softBlur)"/>
+    <circle cx="0" cy="25" r="120" fill="url(#graceGlow)"/>
+
+    <path d="M0 10 L0 -95" stroke="#F4C35A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M0 -95 L-18 -118" stroke="#F4C35A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M0 -95 L18 -118" stroke="#F4C35A" stroke-width="4" stroke-linecap="round"/>
+
+    <path d="M-40 75 C-18 55 -10 30 0 12 C10 30 18 55 40 75" stroke="#FFD777" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <path d="M-58 81 C-25 55 -15 28 0 -2 C15 28 25 55 58 81" stroke="#FFB84D" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.9"/>
+  </g>
+
+  <text x="600" y="86" text-anchor="middle" class="title">Rise, Tarnished Coder</text>
+  <text x="600" y="126" text-anchor="middle" class="subtitle">OpenGL • Vulkan • Full-Stack Development</text>
+  <text x="600" y="372" text-anchor="middle" class="caption">Respawning at the Site of Grace after every bug fix.</text>
+</svg>

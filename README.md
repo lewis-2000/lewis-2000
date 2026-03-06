@@ -1,43 +1,67 @@
+<h1 align="center">Lewis Nganga</h1>
+<p align="center"><b>Full-Stack Developer | OpenGL & Vulkan Enthusiast | Software Engineering Student</b></p>
+
 <p align="center">
-    <a href="https://github.com/zogmwa">
-        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+    <a href="mailto:flammylewis2000@outlook.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/lewis-2000">
+        <img src="https://img.shields.io/badge/GitHub-lewis--2000-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
 </p>
 
-## 👋 Hey There, I'm Lewis!
+---
 
-<img align="right" alt="GIF" src="2GU.gif" />
+## Hi there 👋
 
-- 🚀 Learning software engineering and having a blast at school.
-- 💻 Coding in React, TypeScript, JavaScript, and C#. On a mission to conquer all languages!
-- 🍔 Love eating - especially when my code runs without errors. 🍔
+<p align="center">
+    <img alt="Boss-arena coding banner" width="85%" src="images/boss-arena-banner.svg" />
+</p>
 
-## 👀 What I'm All About
+I love building software from low-level graphics to polished full-stack apps.
 
-- 🔧 Passionate about web development - creating websites that WOW!
-- 🌐 Exploring the React and .NET world - one line of code at a time.
-- 🚀 Always up for a coding challenge and a good cup of coffee.
+- Rendering and graphics programming with `OpenGL` and `Vulkan`
+- Full-stack development with `React`, `TypeScript`, `JavaScript`, `C#`, and `.NET`
+- Always learning, building, and improving one project at a time
 
-## 📫 Connect With Me
+## What I Do
 
-[![Email](https://img.shields.io/badge/Email-flammylewis2000%40outlook.com-9cf)](mailto:flammylewis2000@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Lewis--Nganga-181717?logo=github)](https://github.com/lewis-2000/)
+- Build interactive web apps with modern frontend and backend tooling
+- Explore real-time rendering concepts, graphics pipelines, and performance optimization
+- Blend clean architecture with practical product-focused development
 
-## ⚡ Fun Fact
+## Tech Stack
 
-- 🎸 I play the guitar in my free time. Coding and music, what a combo!
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-A41E22?style=flat-square&logo=vulkan&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E1E?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
+## Currently Focused On
 
-<!--
-**lewis-2000/lewis-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- Advancing Vulkan/OpenGL rendering skills through hands-on projects
+- Building robust full-stack applications end-to-end
+- Writing cleaner, maintainable code and improving performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+
+<p align="center">
+    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lewis-2000&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+    <img height="170" src="https://streak-stats.demolab.com?user=lewis-2000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lewis-2000&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+## Fun Fact
+
+- I play guitar, love Souls games, and jump into Elden Ring for the occasional Tarnished run when I am not coding.
+
+## Connect With Me
+
+- Email: `flammylewis2000@outlook.com`
+- GitHub: `github.com/lewis-2000`
