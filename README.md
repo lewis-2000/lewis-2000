@@ -1,4 +1,4 @@
-<h1 align="center">Lewis Nganga</h1>
+<h1 align="center">Lewis Ng'ang'a</h1>
 <p align="center"><b>Full-Stack Developer | OpenGL & Vulkan Enthusiast | Software Engineering Student</b></p>
 
 <p align="center">
